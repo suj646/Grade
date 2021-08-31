@@ -1,0 +1,16 @@
+F:\DOTNET\grade2ex\grade2ex\bin\Debug\net5.0\grade2ex.exe
+F:\DOTNET\grade2ex\grade2ex\bin\Debug\net5.0\grade2ex.deps.json
+F:\DOTNET\grade2ex\grade2ex\bin\Debug\net5.0\grade2ex.runtimeconfig.json
+F:\DOTNET\grade2ex\grade2ex\bin\Debug\net5.0\grade2ex.runtimeconfig.dev.json
+F:\DOTNET\grade2ex\grade2ex\bin\Debug\net5.0\grade2ex.dll
+F:\DOTNET\grade2ex\grade2ex\bin\Debug\net5.0\ref\grade2ex.dll
+F:\DOTNET\grade2ex\grade2ex\bin\Debug\net5.0\grade2ex.pdb
+F:\DOTNET\grade2ex\grade2ex\obj\Debug\net5.0\grade2ex.csproj.AssemblyReference.cache
+F:\DOTNET\grade2ex\grade2ex\obj\Debug\net5.0\grade2ex.GeneratedMSBuildEditorConfig.editorconfig
+F:\DOTNET\grade2ex\grade2ex\obj\Debug\net5.0\grade2ex.AssemblyInfoInputs.cache
+F:\DOTNET\grade2ex\grade2ex\obj\Debug\net5.0\grade2ex.AssemblyInfo.cs
+F:\DOTNET\grade2ex\grade2ex\obj\Debug\net5.0\grade2ex.csproj.CoreCompileInputs.cache
+F:\DOTNET\grade2ex\grade2ex\obj\Debug\net5.0\grade2ex.dll
+F:\DOTNET\grade2ex\grade2ex\obj\Debug\net5.0\ref\grade2ex.dll
+F:\DOTNET\grade2ex\grade2ex\obj\Debug\net5.0\grade2ex.pdb
+F:\DOTNET\grade2ex\grade2ex\obj\Debug\net5.0\grade2ex.genruntimeconfig.cache
